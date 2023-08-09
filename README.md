@@ -1,10 +1,10 @@
 # ItsRainingRaincoats
 
-ItsRainingRaincoats (IRR) is a Singapore charity that aims to build bridges of integration between migrant workers and residents of Singapore. This project is tended for the fulfillment of the academic requirements of the Software engineering Immersive programme from General Assembly, and ItsRainingRaincoats was used as the subject of the study. The contributors to this project are in no way, means or form related to ItsRainingRaincoats.
+ItsRainingRaincoats (IRR) is a Kenyan charity that aims to build bridges of integration between migrant workers and residents of Kenya. This project is tended for the fulfillment of the academic requirements of the Software engineering Immersive programme from General Assembly, and ItsRainingRaincoats was used as the subject of the study. The contributors to this project are in no way, means or form related to ItsRainingRaincoats.
 
 ## Description
 
-Part of IRR's activities includes the collection of donations from people in Singapore and the re-distribution of the items to migrant workers on request. The current state involves a labour-intensive and tedious process, with inefficient means of communication between the migrant workers, donors and volunteers.
+Part of IRR's activities includes the collection of donations from people in Kenya and the re-distribution of the items to migrant workers on request. The current state involves a labour-intensive and tedious process, with inefficient means of communication between the migrant workers, donors and volunteers.
 
 The goal of this project is to create a platform on which all three parties can conduct their exchange. For migrant workers, this would mean having a means to put in a request for items, without language being a preventing factor. For donors, this would mean having a means to submit a request to IRR to donate items and to schedule a drop-off of said items. For volunteers, this would take the form of a management platform where they are able to view both types of requests and conduct the quality checks, approvals or rejections, and tracking for the requests.
 
