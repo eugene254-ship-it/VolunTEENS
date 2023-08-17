@@ -175,7 +175,7 @@ Displayed below is the structure of the application.
 
 ## Back-end (Server)
 
-The backend repository used for this project can be found at [its-raining-raincoat-backend]( https://github.com/maybelline-ang/its-raining-raincoat-backend). The technologies used for the backend are: Node.js, Express, MongoDB & Atlas, Mongoose, UUID, and Bcrypt.
+The backend repository used for this project can be found at the technologies used for the backend are: Node.js, Express, MongoDB & Atlas, Mongoose, UUID, and Bcrypt.
 
 ### Back-end Repository Structure
 
